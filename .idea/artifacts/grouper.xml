@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="grouper">
+    <output-path>$PROJECT_DIR$/out/artifacts/grouper</output-path>
+    <root id="archive" name="grouper.jar">
+      <element id="module-output" name="hash_grouper" />
+    </root>
+  </artifact>
+</component>
